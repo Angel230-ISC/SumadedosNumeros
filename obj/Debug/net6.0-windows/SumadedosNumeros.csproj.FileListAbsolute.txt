@@ -1,0 +1,16 @@
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\bin\Debug\net6.0-windows\SumadedosNumeros.exe
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\bin\Debug\net6.0-windows\SumadedosNumeros.deps.json
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\bin\Debug\net6.0-windows\SumadedosNumeros.runtimeconfig.json
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\bin\Debug\net6.0-windows\SumadedosNumeros.dll
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\bin\Debug\net6.0-windows\SumadedosNumeros.pdb
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.Form1.resources
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.csproj.GenerateResource.cache
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.dll
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\refint\SumadedosNumeros.dll
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.pdb
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\SumadedosNumeros.genruntimeconfig.cache
+C:\Users\ANGEL\source\repos\SumadedosNumeros\SumadedosNumeros\obj\Debug\net6.0-windows\ref\SumadedosNumeros.dll
